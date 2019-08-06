@@ -2,5 +2,5 @@
 Air quality sensor workshop
 
 
-## Please visit out data base at :
+## Please visit our database at :
 http://128.153.15.208/phpmyadmin/
